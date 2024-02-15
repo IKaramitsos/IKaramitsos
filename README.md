@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 👩‍💻 I’m currently working on a **Expense Tracker**
+ 👩‍💻 I’m currently working on an **Expense Tracker**
  
  🎓 I’m currently pursuing a Master's in **Human-Computer Interaction**
 
