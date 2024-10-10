@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 👩‍💻 I’m currently working on an **Expense Tracker**
+ 👩‍💻 I’m currently working on my **Thesis**
  
  🎓 I’m currently pursuing a Master's in **Human-Computer Interaction**
 
 💬 Ask me about **my repositories.... or anything [here](https://www.linkedin.com/in/ioanniskaramitsos/)**
 
-📕 Indulging in **The Winner Effect **by** Ian Robertson**
+📕 Indulging in **Rich Dad Poor Dad **by** Robert Kiyosaki**
 
  </div>
 
