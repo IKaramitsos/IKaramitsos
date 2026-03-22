@@ -30,7 +30,7 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,javascript,typescript,html,css,tailwind,vscode,mysql,idea,github,figma,postman,git,linux" alt="Tech Stack" /><br>
+    <img src="https://skillicons.dev/icons?i=react,angular,javascript,typescript,html,css,tailwind,vscode,mysql,webstorm,github,figma,postman,git,linux" alt="Tech Stack" /><br>
 </div>
 
 ## 📱 Connect With Me
