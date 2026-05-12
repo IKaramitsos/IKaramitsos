@@ -3,9 +3,9 @@
 
 <h3 align="center">Junior Frontend Developer • Problem Solver • Lifelong Learner</h3>
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=IKaramitsos.IKaramitsos" alt="Profile Views" width="100" height="30"/>    
-</div>
+</div> -->
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,javascript,typescript,html,css,tailwind,vscode,mysql,webstorm,github,figma,postman,git,linux" alt="Tech Stack" /><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,tailwind,vscode,mysql,webstorm,github,figma,postman,git,linux" alt="Tech Stack" /><br>
 </div>
 
 ## 📱 Connect With Me
