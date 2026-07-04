@@ -20,7 +20,7 @@
 
 💻 Interested in frontend / web development
 
-🌱 Currently improving my React, TypeScript, and testing skills
+🌱 Currently improving my React, JavaScript, and testing skills
 
 🔎 Exploring career opportunities
 
