@@ -1,6 +1,6 @@
 
 <h1 align="center" >Hi, I'm Ioannis Karamitsos 👋</h1> 
-
+ 
 <h3 align="center">Junior Frontend Developer • Problem Solver • Lifelong Learner</h3>
 
 <!-- <div align="center">
