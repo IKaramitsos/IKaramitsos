@@ -6,8 +6,9 @@ I enjoy building modern, reliable and user-friendly software, combining software
 With a background in Computer Engineering and Human-Computer Interaction, I approach development with both technical problem-solving and user experience in mind.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioanniskaramitsos/)
-[![GitHub followers](https://img.shields.io/github/followers/IKaramitsos?label=Follow&style=social)](https://github.com/IKaramitsos)
 ![Availability](https://img.shields.io/badge/Availability-Open_to_Opportunities-brightgreen?style=flat-square)
+<!--- [![GitHub followers](https://img.shields.io/github/followers/IKaramitsos?label=Follow&style=social)](https://github.com/IKaramitsos) --->
+
 
 ### 👨‍💻 About me
 
