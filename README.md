@@ -1,48 +1,39 @@
+# Hi 👋, I'm Ioannis Karamitsos
+## Software Engineer | Web Development | Software Quality 🚀
 
-<h1 align="center" >Hi, I'm Ioannis Karamitsos 👋</h1> 
- 
-<h3 align="center">Junior Frontend Developer • Problem Solver • Lifelong Learner</h3>
+I enjoy building modern, reliable and user-friendly software, combining software engineering principles with a strong interest in usability, accessibility and clean code.
 
-<!-- <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=IKaramitsos.IKaramitsos" alt="Profile Views" width="100" height="30"/>    
-</div> -->
+With a background in Computer Engineering and Human-Computer Interaction, I approach development with both technical problem-solving and user experience in mind.
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioanniskaramitsos/)
+[![GitHub followers](https://img.shields.io/github/followers/IKaramitsos?label=Follow&style=social)](https://github.com/IKaramitsos)
+![Availability](https://img.shields.io/badge/Availability-Open_to_Opportunities-brightgreen?style=flat-square)
 
-<div align="left">
-    
-## ✨ About Me
+### 👨‍💻 About me
 
+- 🎓 BSc in **Computer Engineering** — University of Peloponnese (Graduated with Honors, 1st in class).
+- 🎓 MSc in **Human-Computer Interaction** – University of Patras.
+- 💼 6 months of professional experience as a Frontend Developer Intern at CTI Diophantus.
+- 💻 Interested in software engineering, web development and software quality.
+- 🧩 I enjoy solving problems and building applications with a focus on maintainability, usability and accessibility.
 
-🎓 BSc Computer Engineering – University of Peloponnese (1st in class)
+### 🛠️ Tech Stack
+- **Frontend:** React, JavaScript, HTML5, CSS3, Tailwind CSS
+- **Backend & APIs:** REST API Integration, Appwrite
+- **Databases:** SQL
+- **Tools & Technologies:** Git, Figma, UI/UX
+- **Familiar with:** Angular, TypeScript, Bootstrap
 
-🎓 MSc Human-Computer Interaction – University of Patras
+### 🌱 Currently improving
+- Exploring the end-to-end software development process, from planning and implementation to deployment.
+- Diving deeper into software testing, QA practices and test automation.
+- Expanding my knowledge of software architecture, clean code and modern development practices.
 
-💻 Interested in frontend / web development
+### 📬 Let's Connect!
 
-🌱 Currently improving my React, JavaScript, and testing skills
+I'm always happy to connect, exchange ideas.
 
-🔎 Exploring career opportunities
+- 💼 [LinkedIn](https://www.linkedin.com/in/ioanniskaramitsos/)
+- 🌐 [Portfolio](https://ikaramitsos.com/)
+- 📧 ioakaramitsos@gmail.com
 
- </div>
-
-## 💻 Tech Stack
-
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,vscode,mysql,webstorm,github,figma,postman,git,linux" alt="Tech Stack" /><br>
-</div>
-
-## 📱 Connect With Me
-
-<br/>
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ioakaramitsos@gmail.com)
-
-</div>
-
-<!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikaramitsos&show_icons=true&theme=dark&title_color=4dff1d&locale=en&layout=compact" alt="ikaramitsos" /></p>
--->
